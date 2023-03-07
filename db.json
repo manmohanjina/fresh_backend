@@ -3,8 +3,8 @@
     {
       "email": "",
       "username": "",
-      "password":""
-
+      "password": ""
     }
-  ]
+  ],
+  "tasks": [{}]
 }
