@@ -3,8 +3,11 @@
     {
       "email": "",
       "username": "",
-      "password": ""
+      "password": "",
+      "id":1
     }
   ],
-  "tasks": [{}]
+  "tasks": [{
+    "id":2
+  }]
 }
